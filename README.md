@@ -1,3 +1,7 @@
+#GOD
+`No Technology thats connected to internet is Unhackable. 💻🦅`
+<br>
+##Commands:-
 ```
 rm -rf GOD
 git clone https://github.com/BilalHaiderID/GOD
