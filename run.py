@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #creater: 
 #_________[ IMPORTING MODULE ]_________>>
-import re,os,sys,smtplib,requests,itertools,json,zipfile
+import re,os,sys,smtplib,requests,itertools,jso
 from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email.mime.text import MIMEText
